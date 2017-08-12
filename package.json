@@ -1,0 +1,25 @@
+{
+  "name": "flamebot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "clarker <crahrig@gmail.com>",
+  "description": "If someone does something awesome, recognize them! They got you coffee on your way to class? They killed a DDR report? They closed a deal? They held the best Genesis party ever? If you want to recognize them type @[insert their username]++",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-diagnostics": "0.0.2",
+    "hubot-google-images": "^0.2.7",
+    "hubot-google-translate": "^0.2.1",
+    "hubot-help": "^0.2.2",
+    "hubot-heroku-keepalive": "^1.0.3",
+    "hubot-maps": "0.0.3",
+    "hubot-pugme": "^0.1.1",
+    "hubot-redis-brain": "0.0.4",
+    "hubot-rules": "^0.1.2",
+    "hubot-scripts": "^2.17.2",
+    "hubot-shipit": "^0.2.1",
+    "hubot-slack": "^4.3.4"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
