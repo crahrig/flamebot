@@ -4,6 +4,9 @@
   "private": true,
   "author": "clarker <crahrig@gmail.com>",
   "description": "If someone does something awesome, recognize them! They got you coffee on your way to class? They killed a DDR report? They closed a deal? They held the best Genesis party ever? If you want to recognize them type @[insert their username]++",
+  "scripts": {
+    "start": "bash ./bin/hubot"
+  },
   "dependencies": {
     "coffee-script": "^1.12.7",
     "hubot": "^2.19.0",
