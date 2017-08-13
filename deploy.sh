@@ -120,6 +120,6 @@ fi
 
 # 4. Create Hubot file with coffee extension
 cp "$DEPLOYMENT_TARGET/node_modules/hubot/bin/hubot"
-"$DePLOYMENT_TARGET/node_modules/hubot/bin/hubot.coffee"
+"$DEPLOYMENT_TARGET/node_modules/hubot/bin/hubot.coffee"
 ##################################################################################################################################
 echo "Finished successfully."
