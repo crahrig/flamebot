@@ -1,6 +1,6 @@
 @echo off
 
-npm install && node_modules\.bin\hubot.cmd --name "bender" %*
+npm install && node_modules\.bin\hubot.cmd --name "flamebot" %*
 
 rem call npm install
 rem SETLOCAL
