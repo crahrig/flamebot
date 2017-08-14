@@ -5,7 +5,7 @@
   "author": "clarker <crahrig@gmail.com>",
   "description": "GP's super useful and helpful Hubot",
   "scripts": {
-    "start": "node .\bin\hubot.cmd"
+    "start": "bash ./bin/hubot.cmd"
   },
   "dependencies": {
     "coffee-script": "^1.12.7",
