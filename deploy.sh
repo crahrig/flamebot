@@ -117,8 +117,8 @@ if [ -e "$DEPLOYMENT_TARGET/package.json" ]; then
   cd - > /dev/null
 fi
 
-
 # 4. Create Hubot file with coffee extension
-cp "$DEPLOYMENT_TARGET\node_modules\hubot\bin\hubot" "$DEPLOYMENT_TARGET\node_modules\hubot\bin\hubot.coffee"
+cp "$DEPLOYMENT_TARGET/node_modules/hubot/bin/hubot" "$DEPLOYMENT_TARGET/node_modules/hubot/bin/hubot.coffee"
+
 ##################################################################################################################################
 echo "Finished successfully."
