@@ -4,9 +4,6 @@
   "private": true,
   "author": "clarker <crahrig@gmail.com>",
   "description": "GP's super useful and helpful Hubot",
-  "scripts": {
-    "start": "node ./bin/hubot"
-  },
   "dependencies": {
     "coffee-script": "^1.12.7",
     "hubot": "^2.19.0",
