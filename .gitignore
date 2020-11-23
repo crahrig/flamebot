@@ -3,3 +3,4 @@ node_modules
 .hubot_history
 envvars.ps1
 .vscode/*
+package-lock.json
