@@ -27,6 +27,7 @@ You can test your hubot locally by running the following. Remember, many plugins
 You can start flamebot locally by running:
 
     PS [PATH\TO\flamebot]> .\bin\hubot
+    PS [PATH\TO\flamebot]> npm start
 
 You'll see some start up output:
 
